@@ -8,8 +8,8 @@
 </head>
 <body>
 
-    <?php include './partials/connect.php' ?>
-    <?php include './partials/nav.php'  ?>
+    <?php include 'connect.php' ?>
+    <?php include 'nav.php'  ?>
 
     <h1 class="text-center text-primary my-3">Welcome to our store</h1>
     <h1 class="text-center text-success mb-4">Shop by Category</h1>
